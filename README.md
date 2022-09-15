@@ -28,3 +28,22 @@
 javac -encoding utf8 Main.java
 java Main
 ```
+
+---
+
+<h2>Authors</h2>
+
+<h3>
+  Nuno Castro
+  <a href="https://github.com/nunofbcastro?tab=followers">
+    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=social&label=Follow" />
+  </a>
+</h3>
+
+<h3>
+  Gonçalo Oliveira
+  <a href="https://github.com/oliveira1712?tab=followers">
+    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=social&label=Follow" />
+  </a>
+</h3>
+
