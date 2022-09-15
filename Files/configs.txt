@@ -1,0 +1,9 @@
+Preco: 5
+DuracaoAposTerminoLavagemCarro: 5
+DuracaoArranqueTapete: 2
+DuracaoMovimentoRolosMin: 4
+DuracaoMovimentoRolosMax: 8
+DuracaoAtivacaoAspersores: 5
+DuracaoAtivacaoSecadoresMin: 3
+DuracaoAtivacaoSecadoresMax: 6
+DuracaoFimProcesso: 3
