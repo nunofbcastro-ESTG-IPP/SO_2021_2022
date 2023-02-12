@@ -3,6 +3,7 @@
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=SO&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=18&color=sucess"/>
   <a href="https://github.com/nunofbcastro-ESTG-IPP/SO/tree/main/Doc/ESTG-PR05-Mod.013V2_Prova Escrita_v1.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
@@ -34,14 +35,13 @@ java Main
 <h3>
   Nuno Castro
   <a href="https://github.com/nunofbcastro?tab=followers">
-    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=social&label=Follow" />
+    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
 <h3>
   Gonçalo Oliveira
   <a href="https://github.com/oliveira1712?tab=followers">
-    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=social&label=Follow" />
+    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
-
